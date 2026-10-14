@@ -1,0 +1,28 @@
+<resources>
+    <string name="app_name">Lens Order</string>
+
+    <!-- Texty pro Layout -->
+    <string name="title_headline">Lens Order</string>
+    <string name="title_choose_lens">Which lens do you want to order?</string>
+    <string name="lens_24_70">RF 24 - 70mm</string>
+    <string name="lens_24_105">RF 24 - 105mm</string>
+    <string name="lens_50">RF 50mm</string>
+
+    <string name="cb_filter">ND Filter</string>
+    <string name="cb_cleaning">Cleaning Kit</string>
+    <string name="cb_warranty">Extended Warranty</string>
+
+    <string name="btn_order">Order</string>
+    <string name="tv_summary_default">Order Summary</string>
+
+    <!-- Texty skládané v Kotlin kódu -->
+    <string name="summary_prefix">Order summary:</string>
+    <string name="addon_filter">; ND Filter</string>
+    <string name="addon_cleaning">; Cleaning Kit</string>
+    <string name="addon_warranty">; Extended Warranty</string>
+
+    <string name="total_price">\n\nTotal price: %d USD</string>
+
+
+    <string name="toast_order_sent">Order for %s lens has been sent!</string>
+</resources>

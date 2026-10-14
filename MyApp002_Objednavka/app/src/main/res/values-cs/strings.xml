@@ -1,0 +1,24 @@
+<resources>
+    <string name="app_name">Objednávka objektivu</string>
+
+    <string name="title_headline">Objednávka objektivu</string>
+    <string name="title_choose_lens">Jaký objektiv chcete objednat?</string>
+    <string name="lens_24_70">RF 24 - 70mm</string>
+    <string name="lens_24_105">RF 24 - 105mm</string>
+    <string name="lens_50">RF 50mm</string>
+
+    <string name="cb_filter">ND Filtr</string>
+    <string name="cb_cleaning">Čistící sada</string>
+    <string name="cb_warranty">Prodloužená záruka</string>
+
+    <string name="btn_order">Objednat</string>
+    <string name="tv_summary_default">Souhrn objednávky</string>
+
+    <string name="total_price">\n\nCelková cena: %d Kč</string>
+
+    <string name="summary_prefix">Souhrn objednávky:</string>
+    <string name="addon_filter">; ND Filtr</string>
+    <string name="addon_cleaning">; Čistící sada</string>
+    <string name="addon_warranty">; Prodloužená záruka</string>
+    <string name="toast_order_sent">Objednávka objektivu %s byla odeslána!</string>
+</resources>

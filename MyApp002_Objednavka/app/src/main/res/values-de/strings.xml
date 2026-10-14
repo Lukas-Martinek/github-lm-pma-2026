@@ -1,0 +1,22 @@
+<resources>
+    <string name="app_name">Objektivbestellung</string>
+
+    <string name="title_headline">Objektivbestellung</string>
+    <string name="title_choose_lens">Welches Objektiv möchten Sie bestellen?</string>
+    <string name="lens_24_70">RF 24 - 70mm</string>
+    <string name="lens_24_105">RF 24 - 105mm</string>
+    <string name="lens_50">RF 50mm</string>
+
+    <string name="cb_filter">ND-Filter</string>
+    <string name="cb_cleaning">Reinigungsset</string>
+    <string name="cb_warranty">Garantieverlängerung</string>
+
+    <string name="btn_order">Bestellen</string>
+    <string name="tv_summary_default">Bestellübersicht</string>
+
+    <string name="summary_prefix">Bestellübersicht:</string>
+    <string name="addon_filter">; ND-Filter</string>
+    <string name="addon_cleaning">; Reinigungsset</string>
+    <string name="addon_warranty">; Garantieverlängerung</string>
+    <string name="toast_order_sent">Bestellung für Objektiv %s wurde gesendet!</string>
+</resources>
