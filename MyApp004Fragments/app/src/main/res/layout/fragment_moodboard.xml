@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical"
+    android:gravity="center"
+    android:padding="16dp">
+
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="Koncept &amp; Moodboard"
+        android:textSize="24sp"
+        android:textStyle="bold"
+        android:layout_marginBottom="16dp"/>
+
+    <!-- Odkazuje na obrázek v res/drawable, který tam nahraješ -->
+    <ImageView
+        android:id="@+id/imgMoodboard"
+        android:layout_width="match_parent"
+        android:layout_height="300dp"
+        android:scaleType="centerCrop"
+        android:src="@drawable/moodboard" />
+    <!-- Až vložíš svůj obrázek do drawable, změň @drawable/ic_launcher_background na název svého obrázku (např. @drawable/moodboard_ai) -->
+</LinearLayout>
